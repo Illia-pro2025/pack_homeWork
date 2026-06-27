@@ -1,0 +1,20 @@
+{
+  "name": "homework",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "illia",
+  "type": "commonjs",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "chart": "^0.1.2",
+    "chart.js": "^4.5.1",
+    "parcel": "^2.16.4"
+  },
+  "devDependencies": {
+    "pnotify": "^5.2.0"
+  }
+}
